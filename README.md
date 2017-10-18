@@ -1,0 +1,1 @@
+## md-virtual-repeat directive to add PerfectScrollbar to it
